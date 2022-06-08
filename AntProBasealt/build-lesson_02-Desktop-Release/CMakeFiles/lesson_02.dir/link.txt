@@ -1,0 +1,1 @@
+/usr/bin/g++  -O2 -DNDEBUG   CMakeFiles/lesson_02.dir/lesson_02_autogen/mocs_compilation.cpp.o CMakeFiles/lesson_02.dir/main.cpp.o CMakeFiles/lesson_02.dir/mainwindow.cpp.o  -o lesson_02  /usr/lib64/libQt5Widgets.so.5.12.12 /usr/lib64/libQt5Gui.so.5.12.12 /usr/lib64/libQt5Core.so.5.12.12 

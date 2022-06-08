@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lesson_02",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lesson_02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lesson_02-Release-54276f33ddf67beb9943.json",
+					"name" : "lesson_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lesson_02_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lesson_02_autogen-Release-1fcc02bac26ce7f8d8d2.json",
+					"name" : "lesson_02_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/antpro/Develop/qt_practice/build-lesson_02-Desktop-Release",
+		"source" : "/home/antpro/Develop/qt_practice/lesson_02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

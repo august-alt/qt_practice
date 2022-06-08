@@ -1,0 +1,4 @@
+/home/antpro/Develop/qt_practice/lesson_1/build-lesson_01-Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/antpro/Develop/qt_practice/lesson_1/build-lesson_01-Desktop-Release/CMakeFiles/lesson_01.dir
+/home/antpro/Develop/qt_practice/lesson_1/build-lesson_01-Desktop-Release/CMakeFiles/edit_cache.dir
+/home/antpro/Develop/qt_practice/lesson_1/build-lesson_01-Desktop-Release/CMakeFiles/lesson_01_autogen.dir
