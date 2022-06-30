@@ -13,18 +13,12 @@
 
 int main(int argc, char *argv[])
 {
-//    QApplication a(argc, argv);
-//    MainWindow w;
-//    w.show();
-//    return a.exec();
-
     QApplication app(argc, argv);
 
-      Puff window(nullptr);
+    Puff window(nullptr);
+    window.resize(350, 280);;
+    window.setWindowTitle("Qt Painting");
+    window.show();
 
-      window.resize(350, 280);;
-      window.setWindowTitle("Lines");
-      window.show();
-
-      return app.exec();
+    return app.exec();
 }

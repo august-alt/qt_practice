@@ -35,7 +35,6 @@ set(SOURCES
     qtpaintlib/lineargradients.cpp
     qtpaintlib/radialgradient.cpp
     qtpaintlib/puff.cpp
-
 )
 
 set(APP_SOURCES
