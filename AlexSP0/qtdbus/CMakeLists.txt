@@ -12,6 +12,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(Qt5 REQUIRED COMPONENTS Widgets)
+find_package(Qt5 REQUIRED COMPONENTS DBus)
 
 set(PROJECT_SOURCES
         main.cpp
@@ -22,4 +23,4 @@ set(PROJECT_SOURCES
 
 add_executable(qtdbus ${PROJECT_SOURCES})
 
-target_link_libraries(qtdbus PRIVATE Qt5::Widgets)
+target_link_libraries(qtdbus PRIVATE Qt5::Widgets Qt5::DBus)
