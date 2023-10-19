@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/plugin.dir/plugin_autogen/mocs_compilation.cpp.o CMakeFiles/plugin.dir/main.cpp.o CMakeFiles/plugin.dir/mainwindow.cpp.o CMakeFiles/plugin.dir/fileselector.cpp.o  -o plugin  /usr/lib64/libQt5Widgets.so.5.12.12 /usr/lib64/libQt5Gui.so.5.12.12 /usr/lib64/libQt5Core.so.5.12.12 

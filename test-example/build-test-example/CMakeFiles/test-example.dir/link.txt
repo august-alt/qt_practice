@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/test-example.dir/test-example_autogen/mocs_compilation.cpp.o CMakeFiles/test-example.dir/main.cpp.o CMakeFiles/test-example.dir/test.cpp.o  -o test-example  /usr/lib64/libQt5Core.so.5.12.12 

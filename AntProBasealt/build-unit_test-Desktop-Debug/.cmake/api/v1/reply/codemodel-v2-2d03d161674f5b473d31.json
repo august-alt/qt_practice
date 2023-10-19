@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tutorial1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tutorial1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tutorial1-Debug-e49fce4c6f59de225940.json",
+					"name" : "tutorial1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tutorial1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tutorial1_autogen-Debug-8f26c6457c61ace8de74.json",
+					"name" : "tutorial1_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/antpro/Develop/qt_practice/AntProBasealt/build-unit_test-Desktop-Debug",
+		"source" : "/home/antpro/Develop/qt_practice/AntProBasealt/unit_test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

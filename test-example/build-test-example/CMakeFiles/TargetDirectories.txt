@@ -1,0 +1,4 @@
+/home/antpro/Develop/qt_practice/test-example/build-test-example/CMakeFiles/rebuild_cache.dir
+/home/antpro/Develop/qt_practice/test-example/build-test-example/CMakeFiles/test_example.dir
+/home/antpro/Develop/qt_practice/test-example/build-test-example/CMakeFiles/edit_cache.dir
+/home/antpro/Develop/qt_practice/test-example/build-test-example/CMakeFiles/test_example_autogen.dir

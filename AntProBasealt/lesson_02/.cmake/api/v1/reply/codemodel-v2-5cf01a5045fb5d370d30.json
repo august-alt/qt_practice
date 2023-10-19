@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lesson_02",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lesson_02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lesson_02-Debug-b72745814aa82238b2a6.json",
+					"name" : "lesson_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lesson_02_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lesson_02_autogen-Debug-c385b7ce4e7600d5494a.json",
+					"name" : "lesson_02_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/antpro/Develop/qt_practice/AntProBasealt/lesson_02",
+		"source" : "/home/antpro/Develop/qt_practice/AntProBasealt/lesson_02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

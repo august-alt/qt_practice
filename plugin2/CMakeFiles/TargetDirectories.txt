@@ -1,0 +1,4 @@
+/home/antpro/Develop/qt_practice/plugin2/CMakeFiles/rebuild_cache.dir
+/home/antpro/Develop/qt_practice/plugin2/CMakeFiles/plugin2.dir
+/home/antpro/Develop/qt_practice/plugin2/CMakeFiles/edit_cache.dir
+/home/antpro/Develop/qt_practice/plugin2/CMakeFiles/plugin2_autogen.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/tutorial1.dir/tutorial1_autogen/mocs_compilation.cpp.o CMakeFiles/tutorial1.dir/main.cpp.o  -o tutorial1  /usr/lib64/libQt5Test.so.5.12.12 /usr/lib64/libQt5Widgets.so.5.12.12 /usr/lib64/libQt5Gui.so.5.12.12 /usr/lib64/libQt5Core.so.5.12.12 

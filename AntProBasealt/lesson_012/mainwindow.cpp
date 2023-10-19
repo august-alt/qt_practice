@@ -11,10 +11,6 @@ MainWindow::MainWindow(QWidget *parent)
     keyCAE->setKey(Qt::CTRL + Qt::ALT + Qt::Key_Enter);
     connect(keyCAE, SIGNAL(activated()), this, SLOT(slotShortcutCAE()));
 
-//    keyAltQ = new QShortcut(this); // Инициализируем объект
-//    keyAltQ->setKey(Qt::ALT + Qt::Key_Q); // Устанавливаем сочетание клавиш
-//    // подключаем обработчик нажатия клавиши
-//    connect(keyAltQ, SIGNAL(activated()), this, SLOT(slotShortcutAltQ()));
 
     keyAltQ = new QShortcut(this);
     keyAltQ->setKey(Qt::ALT + Qt::Key_Q);
